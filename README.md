@@ -19,19 +19,43 @@
 
 ## Project Structure
 -assets
+
 -components
+
 ---CitySelector.tsx
+
 ---WeatherCard.tsx
+
 -constants
+
 ---cities.ts
+
 -hooks
+
 ---useCurrentLocation.ts
+
 -screens
+
 ---WeatherScreen.tsx
+
 -.gitignore
+
 -App.tsx
+
 -Readme.md
+
 -app.json
+
 -package-lock.json
+
 -package.json
+
 -tsconfig.json
+
+## Supported Weather Conditions
+- Clear
+- Partly Cloudy
+- Cloudy
+- Rain
+- Heavy Rain
+- Snow
