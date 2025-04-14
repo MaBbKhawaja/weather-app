@@ -18,20 +18,20 @@
 - On launch, the app requests permission to access the user's location and fetches current weather data accordingly
 
 ## Project Structure
-- assets
-- components
-- -- CitySelector.tsx
-- -- WeatherCard.tsx
-- constants
-- -- cities.ts
-- hooks
-- -- useCurrentLocation.ts
-- screens
-- -- WeatherScreen.tsx
-- .gitignore
-- App.tsx
-- Readme.md
-- app.json
-- package- lock.json
-- package.json
-- tsconfig.json
+-assets
+-components
+---CitySelector.tsx
+---WeatherCard.tsx
+-constants
+---cities.ts
+-hooks
+---useCurrentLocation.ts
+-screens
+---WeatherScreen.tsx
+-.gitignore
+-App.tsx
+-Readme.md
+-app.json
+-package-lock.json
+-package.json
+-tsconfig.json
